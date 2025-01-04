@@ -11,12 +11,14 @@ Frontend: Next.js (TypeScript), Tailwind CSS
 
 
 🚀 What Sets Me Apart?
+
 Experienced in designing intuitive UIs and crafting seamless user experiences.
 Proficient in building RESTful APIs and scalable architectures for high-performance applications.
 Advocating for clean code principles and maintainable systems, ensuring long-term success for projects.
 
 
 🌟 Notable Projects & Achievements:
+
 Developed a multi-role dashboard application with granular permissions for admins, colleagues, and users.
 Architected and optimized authentication workflows for applications with millions of users.
 Integrated real-time notifications and analytics dashboards to enhance user engagement and insights.
