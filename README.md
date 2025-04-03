@@ -20,7 +20,7 @@ Advocating for clean code principles and maintainable systems, ensuring long-ter
 🌟 Notable Projects & Achievements:
 
 Developed a multi-role dashboard application with granular permissions for admins, colleagues, and users.
-Architected and optimized authentication workflows for applications with millions of users.
+Architected and optimized authentication workflows for applications with Thousands of users.
 Integrated real-time notifications and analytics dashboards to enhance user engagement and insights.
 Built high-performance e-commerce platforms with seamless backends powered by Laravel and SEO-optimized frontends using Next.js, delivering exceptional user experiences and scalability.
 
