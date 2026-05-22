@@ -5,7 +5,7 @@ Full-Stack Web Developer
 
 💻 Tech Stacks I Excel In:
 
-Backend: Laravel (PHP), NestJS (TypeScript)
+Backend: Laravel (PHP), NodeJs
 
 Frontend: Next.js (TypeScript), Tailwind CSS
 
@@ -19,15 +19,8 @@ Advocating for clean code principles and maintainable systems, ensuring long-ter
 
 🌟 Notable Projects & Achievements:
 
-Developed a multi-role dashboard application with granular permissions for admins, colleagues, and users.
-Architected and optimized authentication workflows for applications with Thousands of users.
-Integrated real-time notifications and analytics dashboards to enhance user engagement and insights.
 Built high-performance e-commerce platforms with seamless backends powered by Laravel and SEO-optimized frontends using Next.js, delivering exceptional user experiences and scalability.
-
-
-📚 What I'm Working On:
-
-Currently refining my expertise in NestJS and diving deeper into advanced TypeScript concepts to build future-proof, enterprise-grade applications.
+Integrated real-time notifications and analytics dashboards to enhance user engagement and insights.
 
 
 🌱 Beyond Code:
