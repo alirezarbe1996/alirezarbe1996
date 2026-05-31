@@ -1,30 +1,53 @@
-## Who I am
+<!-- banner -->
+```
+const dev = {
+  thinks: "systems first",
+  ships:  "working software",
+}
+```
+https://avatars.githubusercontent.com/u/140876456?v=4&size=64
+---
 
-I build and architect web applications end-to-end —
-from database schema to the pixels a user clicks.
+<img align="left" src="https://avatars.githubusercontent.com/u/140876456?v=4&size=64 width="80" style="border-radius:50%"/>
 
-My focus is on systems that are easy to reason about, easy to scale, and easy to hand off.
+&nbsp; **Alireza Rabiei**
+&nbsp; · available for collabs
+
+<br clear="left"/>
 
 ---
 
-## What I care about
+I architect and ship web applications end-to-end.
+Less about the tools, more about the thinking.
 
-→ Clean architecture over clever code  
-→ APIs that are a pleasure to consume  
-→ UIs that don't make users think  
-→ Systems that survive their authors  
+Pushing code snippets and patterns I actually use —
+if it saved me time, it might save you time too.
 
----
-
-## What you'll find here
-
-I push useful, production-grade snippets and patterns I actually reach for — auth flows,
-API structures, reusable components, and architectural decisions worth documenting.
-
-If it saved me time, it might save you time too.
+`backend` &nbsp; `frontend` &nbsp; `open to collab`
 
 ---
 
-## Currently exploring
+### currently working on
 
-const focus = "real-time systems + DX tooling";
+> building a real-time notification system &nbsp; ▍
+
+---
+
+### what you'll find here
+
+Code I reach for repeatedly — auth flows, API structures, reusable
+components, and architectural decisions worth documenting.
+
+Not tutorials. Not toy projects. Just the stuff that shows up in real work.
+
+---
+
+### recent pushes
+
+- `auth-patterns` — added sliding session refresh logic
+- `api-scaffolds` — refactored response envelope middleware
+- `system-notes` — documented queue worker patterns
+
+---
+
+<sub>systems over frameworks · clean apis · uis that don't make users think</sub>
