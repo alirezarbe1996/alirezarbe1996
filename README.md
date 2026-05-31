@@ -1,22 +1,3 @@
-<!-- banner -->
-```
-const dev = {
-  thinks: "systems first",
-  ships:  "working software",
-}
-```
-https://avatars.githubusercontent.com/u/140876456?v=4&size=64
----
-
-<img align="left" src="https://avatars.githubusercontent.com/u/140876456?v=4&size=64 width="80" style="border-radius:50%"/>
-
-&nbsp; **Alireza Rabiei**
-&nbsp; · available for collabs
-
-<br clear="left"/>
-
----
-
 I architect and ship web applications end-to-end.
 Less about the tools, more about the thinking.
 
