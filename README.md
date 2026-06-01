@@ -1,4 +1,4 @@
-Hey, I'm a full-stack developer who genuinely enjoys the craft — not just shipping features, but building things that are clean, maintainable, and worth being proud of.
+I'm a full-stack developer who genuinely enjoys the craft — not just shipping features, but building things that are clean, maintainable, and worth being proud of.
 
 My work lives at the intersection of React/Next.js on the frontend and Laravel on the backend. I've spent a lot of time thinking about architecture, reusability, and how to write code that your future self (and teammates) won't curse.
 
