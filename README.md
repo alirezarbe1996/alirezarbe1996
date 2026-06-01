@@ -1,34 +1,67 @@
-I architect and ship web applications end-to-end.
-Less about the tools, more about the thinking.
+Hey, I'm a full-stack developer who genuinely enjoys the craft — not just shipping features, but building things that are clean, maintainable, and worth being proud of.
 
-Pushing code snippets and patterns I actually use —
-if it saved me time, it might save you time too.
-
-`backend` &nbsp; `frontend` &nbsp; `open to collab`
+My work lives at the intersection of React/Next.js on the frontend and Laravel on the backend. I've spent a lot of time thinking about architecture, reusability, and how to write code that your future self (and teammates) won't curse.
 
 ---
 
-### currently working on
+## What I work with
 
-> building a real-time notification system &nbsp; ▍
+**Frontend** — React, Next.js, TypeScript, Tailwind CSS, JavaScript (ES6+)
 
----
+**Backend** — Laravel, PHP, REST APIs, authentication & authorization, role/permission systems
 
-### what you'll find here
-
-Code I reach for repeatedly — auth flows, API structures, reusable
-components, and architectural decisions worth documenting.
-
-Not tutorials. Not toy projects. Just the stuff that shows up in real work.
+**Tooling** — Git & GitHub, MySQL, Axios, Linux
 
 ---
 
-### recent pushes
+## What you'll find in my repos
 
-- `auth-patterns` — added sliding session refresh logic
-- `api-scaffolds` — refactored response envelope middleware
-- `system-notes` — documented queue worker patterns
+This isn't just a portfolio — it's more like a working notebook made public.
+
+Most of what's here came out of real projects: things I needed, built, and thought others might find useful too. That includes:
+
+- Reusable React and TypeScript components
+- Laravel packages and backend utilities
+- Auth implementations (login, roles, permissions, middleware)
+- API integrations and patterns
+- Utility libraries and personal developer tools
+- Snippets I've actually reached for more than once
+
+Everything is meant to be readable, forkable, and learnable from.
 
 ---
 
-<sub>systems over frameworks · clean apis · uis that don't make users think</sub>
+## What I'm building right now
+
+- Production-grade React and Next.js applications
+- TypeScript libraries designed for reuse across projects
+- Laravel packages and backend utilities
+- Better architecture patterns and developer experience improvements
+
+---
+
+## How I think about code
+
+Code should outlive the sprint it was written in. That means:
+
+- **Maintainable** — easy to change without breaking everything else
+- **Reusable** — built for the second use case, not just the first
+- **Documented** — future readers shouldn't have to reverse-engineer intent
+- **Scalable** — designed to grow, not just to work today
+
+---
+
+## Open to
+
+I'm actively looking for new opportunities — remote preferred, open to:
+
+- Full-Stack Developer roles
+- Frontend-focused positions (React / Next.js)
+- Laravel backend work
+- Open source collaboration
+
+If you're building something interesting and think I'd be a good fit, I'd love to hear about it. Feel free to reach out through GitHub.
+
+---
+
+> *If you're a React, TypeScript, or Laravel developer — dig through the repos. There's a growing collection of patterns, utilities, and libraries built from actual project experience. Take whatever's useful.*
