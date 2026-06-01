@@ -6,11 +6,11 @@ My work lives at the intersection of React/Next.js on the frontend and Laravel o
 
 ## What I work with
 
-**Frontend** — React, Next.js, TypeScript, Tailwind CSS, JavaScript (ES6+)
+**Frontend** — React, Next.js (+90% optimization), TypeScript, JavaScript (ES6+), Tailwind CSS, Bootstrap, MUI, AntUI 
 
-**Backend** — Laravel, PHP, REST APIs, authentication & authorization, role/permission systems
+**Backend** — Laravel, PHP
 
-**Tooling** — Git & GitHub, MySQL, Axios, Linux
+**Tooling** — MySQL, Reddis, Mongodb
 
 ---
 
