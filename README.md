@@ -2,17 +2,27 @@ I'm a full-stack developer who genuinely enjoys the craft — not just shipping 
 
 My work lives at the intersection of React/Next.js on the frontend and Laravel on the backend. I've spent a lot of time thinking about architecture, reusability, and how to write code that your future self (and teammates) won't curse.
 
----
+----
 
-## What I work with
+**Frontend** —
+![React](https://img.shields.io/badge/React-20232A?style=social&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=social&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=social&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=social&logo=javascript&logoColor=323330)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=social&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-712CF9?style=social&logo=bootstrap&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=social&logo=mui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=social&logo=ant-design&logoColor=white)
 
-**Frontend** — React, Next.js (+90% optimization), TypeScript, JavaScript (ES6+), Tailwind CSS, Bootstrap, MUI, AntUI 
+**Backend** —
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=social&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=social&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=social&logo=nodedotjs&logoColor=white)
 
-**Backend** — Laravel, PHP
-
-**Tooling** — MySQL, Reddis, Mongodb
-
----
+**Tooling** —
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=social&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=social&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=social&logo=mongodb&logoColor=white)
 
 ## What you'll find in my repos
 
